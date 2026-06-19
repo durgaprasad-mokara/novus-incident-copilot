@@ -367,11 +367,4 @@ We welcome contributions! Areas of interest:
 
 *Helping product teams resolve incidents faster, smarter, and more autonomously.*
 
-
-
-
----
-
----
-
 > Made with 🚀 in 80 minutes. Ready to scale. Let's resolve incidents faster.
