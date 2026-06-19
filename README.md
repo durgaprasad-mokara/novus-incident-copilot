@@ -367,29 +367,8 @@ We welcome contributions! Areas of interest:
 
 *Helping product teams resolve incidents faster, smarter, and more autonomously.*
 
----
 
-## 📊 Status
 
-- **Prototype:** ✅ Complete (Bolt.new)
-- **Production Backend:** 🚧 In progress (Claude Code)
-- **Slack Integration:** 📋 Planned
-- **SaaS Platform:** 🎯 Roadmap
-
----
-
-**Last Updated:** June 18, 2026  
-**Version:** 1.0 (MVP Prototype)  
-**Build Time:** 80 minutes
-
----
-
-### 🚀 Ready to Get Started?
-
-1. **[Try the Live Demo](https://novus-incident-copilot.bolt.host)** (no signup required)
-2. **[View Source Code](https://github.com/durgaprasad-mokara/novus-incident-copilot)** on GitHub
-3. **[Read the Devpost](https://devpost.com/software/novus-incident-copilot)** submission for full details
-4. **[Contact Us](mailto:durgamokara15@example.com)** with questions or feedback
 
 ---
 
