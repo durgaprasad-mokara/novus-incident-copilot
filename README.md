@@ -4,14 +4,13 @@
 
 Transform how your team detects, analyzes, and resolves production incidents with real-time AI-powered insights and autonomous state management.
 
-
 ---
 
 ## 🔗 Quick Links
 
-- **[Live Demo →](https://novus-incident-copilot.bolt.host){:target="_blank"}** No signup needed. See autonomous incident management in action.
-- **[GitHub Code →](https://github.com/durgaprasad-mokara/novus-incident-copilot){:target="_blank"}** Full source code and contributing guidelines.
-- **[Devpost Submission →](https://devpost.com){:target="_blank"}** Hackathon documentation and project details.
+- **[Live Demo →](https://novus-incident-copilot.bolt.host)** No signup needed. See autonomous incident management in action.
+- **[GitHub Code →](https://github.com/durgaprasad-mokara/novus-incident-copilot)** Full source code and contributing guidelines.
+- **[Devpost Submission →](https://devpost.com)** Hackathon documentation and project details.
 
 ---
 
@@ -21,7 +20,7 @@ Novus Incident Copilot is an intelligent incident management system that:
 
 - **🔍 Detects** friction points, errors, drops, and dead flows in real-time
 - **🧠 Clusters** raw signals into prioritized incidents using AI
-- **✨ Analyzes** root causes using [Google Gemini 1.5 Flash](https://ai.google.dev/){:target="_blank"}
+- **✨ Analyzes** root causes using [Google Gemini 1.5 Flash](https://ai.google.dev/)
 - **⚡ Advances** incident states autonomously with zero manual intervention
 - **📢 Notifies** teams instantly via Slack/email
 - **🚀 Resolves** faster with AI-generated fix suggestions
@@ -89,38 +88,38 @@ Novus automatically:
 ## 🛠️ Built With
 
 ### Frontend
-- **[React 19](https://react.dev){:target="_blank"}** — UI framework
-- **[Vite](https://vitejs.dev){:target="_blank"}** — Build tool & dev server
-- **[Tailwind CSS 4](https://tailwindcss.com){:target="_blank"}** — Utility-first styling
-- **[TanStack Query](https://tanstack.com/query/latest){:target="_blank"}** — Real-time data fetching & caching
-- **[Wouter](https://github.com/molefrog/wouter){:target="_blank"}** — Lightweight router
-- **[Lucide Icons](https://lucide.dev){:target="_blank"}** — Icon library
-- **[Framer Motion](https://www.framer.com/motion/){:target="_blank"}** — Animations (optional)
+- **[React 19](https://react.dev)** — UI framework
+- **[Vite](https://vitejs.dev)** — Build tool & dev server
+- **[Tailwind CSS 4](https://tailwindcss.com)** — Utility-first styling
+- **[TanStack Query](https://tanstack.com/query/latest)** — Real-time data fetching & caching
+- **[Wouter](https://github.com/molefrog/wouter)** — Lightweight router
+- **[Lucide Icons](https://lucide.dev)** — Icon library
+- **[Framer Motion](https://www.framer.com/motion/)** — Animations (optional)
 
 ### Backend (For Production)
-- **[Node.js 24](https://nodejs.org){:target="_blank"}** — Runtime
-- **[Express 5](https://expressjs.com){:target="_blank"}** — REST API
-- **[PostgreSQL](https://www.postgresql.org){:target="_blank"}** — Database
-- **[Drizzle ORM](https://orm.drizzle.team){:target="_blank"}** — Type-safe queries
-- **[TypeScript](https://www.typescriptlang.org){:target="_blank"}** — Type safety
+- **[Node.js 24](https://nodejs.org)** — Runtime
+- **[Express 5](https://expressjs.com)** — REST API
+- **[PostgreSQL](https://www.postgresql.org)** — Database
+- **[Drizzle ORM](https://orm.drizzle.team)** — Type-safe queries
+- **[TypeScript](https://www.typescriptlang.org)** — Type safety
 
 ### AI & Integrations
-- **[Google Gemini 1.5 Flash](https://ai.google.dev/){:target="_blank"}** — Root cause analysis
-- **[Slack API](https://api.slack.com){:target="_blank"}** — Team notifications
-- **[GitHub REST API](https://docs.github.com/en/rest){:target="_blank"}** — Integration (future)
-- **[Supabase](https://supabase.com){:target="_blank"}** — Real-time subscriptions (production)
+- **[Google Gemini 1.5 Flash](https://ai.google.dev/)** — Root cause analysis
+- **[Slack API](https://api.slack.com)** — Team notifications
+- **[GitHub REST API](https://docs.github.com/en/rest)** — Integration (future)
+- **[Supabase](https://supabase.com)** — Real-time subscriptions (production)
 
 ### DevOps & Deployment
-- **[Vercel](https://vercel.com){:target="_blank"}** — Frontend hosting
-- **[Railway](https://railway.app){:target="_blank"}** — Backend hosting
-- **[GitHub Actions](https://github.com/features/actions){:target="_blank"}** — CI/CD
+- **[Vercel](https://vercel.com)** — Frontend hosting
+- **[Railway](https://railway.app)** — Backend hosting
+- **[GitHub Actions](https://github.com/features/actions)** — CI/CD
 
 ---
 
 ## 🚀 Getting Started
 
 ### Demo (Live)
-Visit **[novus-incident-copilot.bolt.host](https://novus-incident-copilot.bolt.host){:target="_blank"}** to see the prototype in action.
+Visit **[novus-incident-copilot.bolt.host](https://novus-incident-copilot.bolt.host)** to see the prototype in action.
 
 ### Local Development (Bolt.new prototype)
 
@@ -226,7 +225,7 @@ Slack notifications push alerts. Dashboard shows incident context. Suggested fix
 ## 🧠 What We Learned
 
 ### Inspiration
-The inspiration came from watching product teams spend hours in [Datadog](https://www.datadoghq.com){:target="_blank"}/[New Relic](https://newrelic.com){:target="_blank"} dashboards, manually correlating metrics, and guessing root causes. By the time they understood an issue, users had already churned.
+The inspiration came from watching product teams spend hours in [Datadog](https://www.datadoghq.com)/[New Relic](https://newrelic.com) dashboards, manually correlating metrics, and guessing root causes. By the time they understood an issue, users had already churned.
 
 We asked: **What if an AI could automate that entire process?**
 
@@ -238,7 +237,7 @@ We asked: **What if an AI could automate that entire process?**
 5. **Demo mode is a superpower:** Investors instantly "get it" when they see autonomous updates
 
 ### Technical Learnings
-- [TanStack Query](https://tanstack.com/query/latest){:target="_blank"}'s polling + optimistic updates = responsive UX without WebSockets
+- [TanStack Query](https://tanstack.com/query/latest)'s polling + optimistic updates = responsive UX without WebSockets
 - Typewriter animations + toast notifications = engaging AI interactions
 - Glasmorphic design + glow effects = professional + modern feeling
 - Mock API patterns in Bolt = fast iteration before backend build
@@ -250,14 +249,14 @@ We asked: **What if an AI could automate that entire process?**
 
 ### Challenge 1: Real-time UX Without Backend
 **Problem:** Bolt.new has no database. Demo needed to feel real.
-**Solution:** [TanStack Query](https://tanstack.com/query/latest){:target="_blank"} with 3-second polling + optimistic updates. Users see instant feedback while polls refresh in background.
+**Solution:** [TanStack Query](https://tanstack.com/query/latest) with 3-second polling + optimistic updates. Users see instant feedback while polls refresh in background.
 
 ### Challenge 2: Making Autonomous Updates Visible
 **Problem:** Demo running every 2–5 seconds felt too fast or too slow.
 **Solution:** Added speed slider (1–10 seconds) + toast notifications + glow pulse animations. Users can see exactly what changed.
 
 ### Challenge 3: AI Analysis Latency
-**Problem:** [Gemini API](https://ai.google.dev/){:target="_blank"} calls take 1–3 seconds. Felt slow for prototype demo.
+**Problem:** [Gemini API](https://ai.google.dev/) calls take 1–3 seconds. Felt slow for prototype demo.
 **Solution:** Typewriter animation (2–3 sec) makes wait feel intentional + engaging. Loading spinner removed entirely.
 
 ### Challenge 4: Glasmorphic Design at Scale
@@ -273,14 +272,14 @@ We asked: **What if an AI could automate that entire process?**
 ## 🔮 Future Roadmap
 
 ### Phase 2: Production Backend (Weeks 1–4)
-- [ ] [PostgreSQL](https://www.postgresql.org){:target="_blank"} schema + [Drizzle ORM](https://orm.drizzle.team){:target="_blank"}
-- [ ] [Express 5](https://expressjs.com){:target="_blank"} API (all endpoints)
-- [ ] Real [Gemini](https://ai.google.dev/){:target="_blank"} integration (async, error handling)
-- [ ] [Supabase](https://supabase.com){:target="_blank"} Auth + RLS policies
+- [ ] [PostgreSQL](https://www.postgresql.org) schema + [Drizzle ORM](https://orm.drizzle.team)
+- [ ] [Express 5](https://expressjs.com) API (all endpoints)
+- [ ] Real [Gemini](https://ai.google.dev/) integration (async, error handling)
+- [ ] [Supabase](https://supabase.com) Auth + RLS policies
 - [ ] Real-time subscriptions
 
 ### Phase 3: Team Collaboration (Weeks 5–8)
-- [ ] [Slack](https://api.slack.com){:target="_blank"} integration (slash commands, incoming webhooks)
+- [ ] [Slack](https://api.slack.com) integration (slash commands, incoming webhooks)
 - [ ] Jira/Linear ticket creation
 - [ ] Incident annotations + team comments
 - [ ] Assignment workflows
@@ -308,7 +307,7 @@ We asked: **What if an AI could automate that entire process?**
 
 ### For Engineering Teams
 - **Less context switching** (incidents intelligently prioritized)
-- **Faster root cause analysis** ([Gemini](https://ai.google.dev/){:target="_blank"} does heavy lifting)
+- **Faster root cause analysis** ([Gemini](https://ai.google.dev/) does heavy lifting)
 - **Fewer production surprises** (autonomous detection)
 
 ---
@@ -329,30 +328,37 @@ We welcome contributions! Areas of interest:
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit changes (`git commit -m 'Add amazing feature'`)
 4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a [Pull Request](https://github.com/durgaprasad-mokara/novus-incident-copilot/pulls){:target="_blank"}
-
+5. Open a [Pull Request](https://github.com/durgaprasad-mokara/novus-incident-copilot/pulls)
 
 
 ## 🙏 Acknowledgments
 
-- **[Pendo](https://www.pendo.io){:target="_blank"}** — For the decade of behavioral data experience that inspired Novus
-- **[Google Gemini](https://ai.google.dev/){:target="_blank"}** — For powering intelligent incident analysis
-- **[Bolt.new](https://bolt.new){:target="_blank"}** — For enabling rapid prototyping
+- **[Pendo](https://www.pendo.io)** — For the decade of behavioral data experience that inspired Novus
+- **[Google Gemini](https://ai.google.dev/)** — For powering intelligent incident analysis
+- **[Bolt.new](https://bolt.new)** — For enabling rapid prototyping
 - **Our testers** — For early feedback and bug reports
 - **The product community** — For inspiration and ideas
 
 ---
 
+## 📞 Contact & Links
 
+- **Live Demo:** [novus-incident-copilot.bolt.host](https://novus-incident-copilot.bolt.host)
+- **GitHub:** [github.com/durgaprasad-mokara/novus-incident-copilot](https://github.com/durgaprasad-mokara/novus-incident-copilot)
+- **Devpost:** [devpost.com/software/novus-incident-copilot](https://devpost.com/software/novus-incident-copilot)
+- **Email:** durgaprasad@example.com
+- **Twitter:** [@novuscopilot](https://twitter.com/novuscopilot)
+
+---
 
 ## 🎓 Learn More
 
-- **[Novus.ai](https://novus.ai){:target="_blank"}** — Parent product (signal ingestion)
-- **[Google Generative AI Docs](https://ai.google.dev/){:target="_blank"}** — Gemini API
-- **[Pendo Blog](https://www.pendo.io/blog/){:target="_blank"}** — Behavioral analytics insights
-- **[Product Analytics 101](https://www.pendo.io/pendo-fundamentals/){:target="_blank"}** — Core concepts
-- **[React Documentation](https://react.dev){:target="_blank"}** — Building the frontend
-- **[TanStack Query](https://tanstack.com/query/latest){:target="_blank"}** — Data fetching best practices
+- **[Novus.ai](https://novus.ai)** — Parent product (signal ingestion)
+- **[Google Generative AI Docs](https://ai.google.dev/)** — Gemini API
+- **[Pendo Blog](https://www.pendo.io/blog/)** — Behavioral analytics insights
+- **[Product Analytics 101](https://www.pendo.io/pendo-fundamentals/)** — Core concepts
+- **[React Documentation](https://react.dev)** — Building the frontend
+- **[TanStack Query](https://tanstack.com/query/latest)** — Data fetching best practices
 
 ---
 
@@ -376,10 +382,16 @@ We welcome contributions! Areas of interest:
 **Version:** 1.0 (MVP Prototype)  
 **Build Time:** 80 minutes
 
+---
 
-**Want to contribute?** See the [CONTRIBUTING.md](https://github.com/durgaprasad-mokara/novus-incident-copilot/blob/main/CONTRIBUTING.md){:target="_blank"} file.
+### 🚀 Ready to Get Started?
 
-**Have feedback?** Please [create an issue](https://github.com/durgaprasad-mokara/novus-incident-copilot/issues){:target="_blank"} or [contact us directly](mailto:durgaprasad@example.com).
+1. **[Try the Live Demo](https://novus-incident-copilot.bolt.host)** (no signup required)
+2. **[View Source Code](https://github.com/durgaprasad-mokara/novus-incident-copilot)** on GitHub
+3. **[Read the Devpost](https://devpost.com/software/novus-incident-copilot)** submission for full details
+4. **[Contact Us](mailto:durgamokara15@example.com)** with questions or feedback
+
+---
 
 ---
 
