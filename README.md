@@ -10,7 +10,7 @@ Transform how your team detects, analyzes, and resolves production incidents wit
 
 - **[Live Demo →](https://novus-incident-copilot.bolt.host)** No signup needed. See autonomous incident management in action.
 - **[GitHub Code →](https://github.com/durgaprasad-mokara/novus-incident-copilot)** Full source code and contributing guidelines.
-- **[Devpost Submission →](https://devpost.com)** Hackathon documentation and project details.
+- **[Devpost Submission →]([https://devpost.com](https://devpost.com/software/novus-incident-copilot))** Hackathon documentation and project details.
 
 ---
 
@@ -339,28 +339,6 @@ We welcome contributions! Areas of interest:
 - **Our testers** — For early feedback and bug reports
 - **The product community** — For inspiration and ideas
 
----
-
-## 📞 Contact & Links
-
-- **Live Demo:** [novus-incident-copilot.bolt.host](https://novus-incident-copilot.bolt.host)
-- **GitHub:** [github.com/durgaprasad-mokara/novus-incident-copilot](https://github.com/durgaprasad-mokara/novus-incident-copilot)
-- **Devpost:** [devpost.com/software/novus-incident-copilot](https://devpost.com/software/novus-incident-copilot)
-- **Email:** durgaprasad@example.com
-- **Twitter:** [@novuscopilot](https://twitter.com/novuscopilot)
-
----
-
-## 🎓 Learn More
-
-- **[Novus.ai](https://novus.ai)** — Parent product (signal ingestion)
-- **[Google Generative AI Docs](https://ai.google.dev/)** — Gemini API
-- **[Pendo Blog](https://www.pendo.io/blog/)** — Behavioral analytics insights
-- **[Product Analytics 101](https://www.pendo.io/pendo-fundamentals/)** — Core concepts
-- **[React Documentation](https://react.dev)** — Building the frontend
-- **[TanStack Query](https://tanstack.com/query/latest)** — Data fetching best practices
-
----
 
 
 **Built with ❤️ by the Novus team**
